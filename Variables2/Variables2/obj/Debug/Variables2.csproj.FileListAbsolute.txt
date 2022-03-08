@@ -1,0 +1,8 @@
+C:\Users\Tiny\Desktop\mosh c#\csharp\Variables2\Variables2\obj\Debug\Variables2.csproj.AssemblyReference.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\Variables2\Variables2\obj\Debug\Variables2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\Variables2\Variables2\obj\Debug\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\Variables2\Variables2\bin\Debug\Variables2.exe.config
+C:\Users\Tiny\Desktop\mosh c#\csharp\Variables2\Variables2\bin\Debug\Variables2.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\Variables2\Variables2\bin\Debug\Variables2.pdb
+C:\Users\Tiny\Desktop\mosh c#\csharp\Variables2\Variables2\obj\Debug\Variables2.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\Variables2\Variables2\obj\Debug\Variables2.pdb

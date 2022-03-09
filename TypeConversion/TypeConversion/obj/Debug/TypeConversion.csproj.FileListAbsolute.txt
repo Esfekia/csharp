@@ -1,0 +1,8 @@
+C:\Users\Tiny\Desktop\mosh c#\csharp\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\Tiny\Desktop\mosh c#\csharp\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\Tiny\Desktop\mosh c#\csharp\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

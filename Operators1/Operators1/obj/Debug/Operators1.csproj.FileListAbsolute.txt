@@ -1,0 +1,8 @@
+C:\Users\Tiny\Desktop\mosh c#\csharp\Operators1\Operators1\bin\Debug\Operators1.exe.config
+C:\Users\Tiny\Desktop\mosh c#\csharp\Operators1\Operators1\bin\Debug\Operators1.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\Operators1\Operators1\bin\Debug\Operators1.pdb
+C:\Users\Tiny\Desktop\mosh c#\csharp\Operators1\Operators1\obj\Debug\Operators1.csproj.AssemblyReference.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\Operators1\Operators1\obj\Debug\Operators1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\Operators1\Operators1\obj\Debug\Operators1.csproj.CoreCompileInputs.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\Operators1\Operators1\obj\Debug\Operators1.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\Operators1\Operators1\obj\Debug\Operators1.pdb

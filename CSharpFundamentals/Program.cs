@@ -22,6 +22,9 @@ namespace CSharpFundamentals
             System.Console.WriteLine(flags[0]);
             System.Console.WriteLine(flags[1]);
             System.Console.WriteLine(flags[2]);
+
+            var names = new string[3] { "Jack", "John", "Mary" };
+            System.Console.WriteLine(names[1]);
         }
     }
 }

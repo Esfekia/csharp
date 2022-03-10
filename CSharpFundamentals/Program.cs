@@ -2,7 +2,6 @@
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CSharpFundamentals.Math;
 
 namespace CSharpFundamentals
 {
@@ -10,14 +9,12 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-            Person john = new Person();
-            john.FirstName = "John";
-            john.LastName = "Smith";
-            john.Introduce();
+            var numbers = new int[3];
+            numbers[0] = 1;
 
-            Calculator calculator = new Calculator();
-            var result = calculator.Add(1, 2);
-            System.Console.WriteLine(result);
+            System.Console.WriteLine(numbers[0]);
+            System.Console.WriteLine(numbers[1]);
+            System.Console.WriteLine(numbers[2]);
         }
     }
 }

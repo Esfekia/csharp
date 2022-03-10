@@ -6,3 +6,11 @@ C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Debug\CSharpFundamenta
 C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
 C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
 C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+C:\Users\Tiny\Desktop\mosh c#\csharp\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\Tiny\Desktop\mosh c#\csharp\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\Tiny\Desktop\mosh c#\csharp\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

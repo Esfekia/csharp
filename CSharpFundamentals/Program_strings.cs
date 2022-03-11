@@ -16,6 +16,13 @@ namespace CSharpFundamentals
             var formattedNames = string.join(",", names);
             Console.WriteLine(formattedNames);
 
+            var text = "Hi John\nLook into the following paths \n c:\\folder1\\folder2\nc:\\folder3\\folde4";
+            var text2 = @"Hi John
+Look into the following paths
+c:\folder1\folder2
+c:\folder3\folde4";
+            Console.WriteLine(text);   
+            Console.WriteLine(text2);
             
         }
     }

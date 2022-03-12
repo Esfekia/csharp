@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\ValueReferencePerson2\bin\Debug\ValueReferencePerson2.exe.config
+C:\Users\serta\Desktop\mosh\csharp\ValueReferencePerson2\bin\Debug\ValueReferencePerson2.exe
+C:\Users\serta\Desktop\mosh\csharp\ValueReferencePerson2\bin\Debug\ValueReferencePerson2.pdb
+C:\Users\serta\Desktop\mosh\csharp\ValueReferencePerson2\obj\Debug\ValueReferencePerson2.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\ValueReferencePerson2\obj\Debug\ValueReferencePerson2.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\ValueReferencePerson2\obj\Debug\ValueReferencePerson2.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\ValueReferencePerson2\obj\Debug\ValueReferencePerson2.exe
+C:\Users\serta\Desktop\mosh\csharp\ValueReferencePerson2\obj\Debug\ValueReferencePerson2.pdb

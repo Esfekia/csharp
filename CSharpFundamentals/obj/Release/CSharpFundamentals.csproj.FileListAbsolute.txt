@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\bin\Release\CSharpFundamentals.exe.config
+C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\bin\Release\CSharpFundamentals.exe
+C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\bin\Release\CSharpFundamentals.pdb
+C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Release\CSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Release\CSharpFundamentals.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Release\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Release\CSharpFundamentals.exe
+C:\Users\serta\Desktop\mosh\csharp\CSharpFundamentals\obj\Release\CSharpFundamentals.pdb

@@ -13,7 +13,9 @@ namespace Exercise1
     {
         static void Main(string[] args)
         {
-            var number = 12;
+            Console.Write("Enter a number between 1 to 10: ");
+            var input = Console.ReadLine();
+            var number = Convert.ToInt32(input);
             if (number >0 && number <= 10)
             {
                 Console.WriteLine("Valid.");

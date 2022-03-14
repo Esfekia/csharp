@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\serta\Desktop\mosh\csharp\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\serta\Desktop\mosh\csharp\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\serta\Desktop\mosh\csharp\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\serta\Desktop\mosh\csharp\Conditionals\obj\Debug\Conditionals.pdb

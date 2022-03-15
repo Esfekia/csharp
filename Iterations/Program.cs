@@ -46,7 +46,7 @@ namespace Iterations
             {
                 Console.WriteLine(number);
             }
-            */
+            
             //Now lets write same code with while.
             var i = 0;
             while (i<=10)
@@ -55,6 +55,18 @@ namespace Iterations
                     Console.WriteLine(i);
                 i++;
                 
+            }
+            */
+            //Write an echo program that echoes your name, which quits if input is empty.
+            while (true)
+            {
+                Console.Write("Type your name: ");
+                var input = Console.ReadLine();
+
+                if (String.IsNullOrWhiteSpace(input))
+                    break;
+
+                Console.WriteLine("@Echo: " + input);
             }
         }
     }

@@ -56,7 +56,7 @@ namespace Iterations
                 i++;
                 
             }
-            */
+            
             //Write an echo program that echoes your name, which quits if input is empty.
             while (true)
             {
@@ -67,6 +67,20 @@ namespace Iterations
                     break;
 
                 Console.WriteLine("@Echo: " + input);
+            */
+            //Let's use continue instead of break for same result.
+            while (true)
+            { 
+                Console.Write("Type your name: ");
+                var input = Console.ReadLine();
+
+                if (!String.IsNullOrWhiteSpace(input))
+                { 
+                    Console.WriteLine("@Echo: " +input);
+                    continue;
+                }
+
+                break;
             }
         }
     }

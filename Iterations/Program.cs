@@ -38,13 +38,23 @@ namespace Iterations
             {
                 Console.WriteLine(character);
             }
-            */
+            
             //Iterate in an array.
             var numbers = new int[] { 1, 2, 3, 4 };
 
             foreach (var number in numbers)
             {
                 Console.WriteLine(number);
+            }
+            */
+            //Now lets write same code with while.
+            var i = 0;
+            while (i<=10)
+            {
+                if (i % 2 == 0)
+                    Console.WriteLine(i);
+                i++;
+                
             }
         }
     }

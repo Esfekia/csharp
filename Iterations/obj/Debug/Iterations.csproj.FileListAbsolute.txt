@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\serta\Desktop\mosh\csharp\Iterations\bin\Debug\Iterations.exe
+C:\Users\serta\Desktop\mosh\csharp\Iterations\bin\Debug\Iterations.pdb
+C:\Users\serta\Desktop\mosh\csharp\Iterations\obj\Debug\Iterations.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\Iterations\obj\Debug\Iterations.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\Iterations\obj\Debug\Iterations.exe
+C:\Users\serta\Desktop\mosh\csharp\Iterations\obj\Debug\Iterations.pdb

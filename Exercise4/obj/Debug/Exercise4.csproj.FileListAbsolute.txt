@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\Exercise4\obj\Debug\Exercise4.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\Exercise4\obj\Debug\Exercise4.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\serta\Desktop\mosh\csharp\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\serta\Desktop\mosh\csharp\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\serta\Desktop\mosh\csharp\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\serta\Desktop\mosh\csharp\Exercise4\obj\Debug\Exercise4.pdb

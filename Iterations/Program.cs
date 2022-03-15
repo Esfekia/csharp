@@ -17,6 +17,14 @@ namespace Iterations
                     Console.WriteLine(i);
                 }
             }
+//What if you want to display the numbers from reverse order?
+            for (var i = 10; i > 0; i--)
+            {
+                if ((i % 2) == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
         }
     }
 }

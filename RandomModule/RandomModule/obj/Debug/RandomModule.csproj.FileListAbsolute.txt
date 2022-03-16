@@ -1,0 +1,8 @@
+C:\Users\Tiny\Desktop\mosh c#\csharp\RandomModule\RandomModule\bin\Debug\RandomModule.exe.config
+C:\Users\Tiny\Desktop\mosh c#\csharp\RandomModule\RandomModule\bin\Debug\RandomModule.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\RandomModule\RandomModule\bin\Debug\RandomModule.pdb
+C:\Users\Tiny\Desktop\mosh c#\csharp\RandomModule\RandomModule\obj\Debug\RandomModule.csproj.AssemblyReference.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\RandomModule\RandomModule\obj\Debug\RandomModule.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\RandomModule\RandomModule\obj\Debug\RandomModule.csproj.CoreCompileInputs.cache
+C:\Users\Tiny\Desktop\mosh c#\csharp\RandomModule\RandomModule\obj\Debug\RandomModule.exe
+C:\Users\Tiny\Desktop\mosh c#\csharp\RandomModule\RandomModule\obj\Debug\RandomModule.pdb

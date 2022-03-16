@@ -11,8 +11,9 @@ namespace RandomModule
         static void Main(string[] args)
         {
             var random = new Random();
-            char[] buffer = new char[10];
-            for (var i = 0; i < 10; i++)
+            const int passwordLength = 10;
+            char[] buffer = new char[passwordLength];
+            for (var i = 0; i < passwordLength; i++)
                 buffer[i] = (char)('a' + random.Next(0, 26));
             var password = new string(buffer);
             Console.WriteLine(password);

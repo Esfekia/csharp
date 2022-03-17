@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\ControlFlowExercise3\bin\Debug\ControlFlowExercise3.exe.config
+C:\Users\serta\Desktop\mosh\csharp\ControlFlowExercise3\bin\Debug\ControlFlowExercise3.exe
+C:\Users\serta\Desktop\mosh\csharp\ControlFlowExercise3\bin\Debug\ControlFlowExercise3.pdb
+C:\Users\serta\Desktop\mosh\csharp\ControlFlowExercise3\obj\Debug\ControlFlowExercise3.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\ControlFlowExercise3\obj\Debug\ControlFlowExercise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\ControlFlowExercise3\obj\Debug\ControlFlowExercise3.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\ControlFlowExercise3\obj\Debug\ControlFlowExercise3.exe
+C:\Users\serta\Desktop\mosh\csharp\ControlFlowExercise3\obj\Debug\ControlFlowExercise3.pdb

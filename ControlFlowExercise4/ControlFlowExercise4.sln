@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlowExercise4", "ControlFlowExercise4.csproj", "{A2F0EB4D-3CE1-417D-91B6-CEB28665A9E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F0EB4D-3CE1-417D-91B6-CEB28665A9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F0EB4D-3CE1-417D-91B6-CEB28665A9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F0EB4D-3CE1-417D-91B6-CEB28665A9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F0EB4D-3CE1-417D-91B6-CEB28665A9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {021FA4BD-3C08-41B0-9A83-73700A3B3688}
+	EndGlobalSection
+EndGlobal

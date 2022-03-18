@@ -23,16 +23,16 @@ namespace ControlFlowExercise5
                 Console.WriteLine(i);
                 if (Char.IsDigit(input[i]))
                 {
-                    if (input[i] > maximum)
+                    if (Convert.ToInt32(input[i]) > maximum)
                     {
-                        maximum = Convert.ToByte(input[i]);
+                        maximum = input[i];
                     }
                         
                 }
                 
 
             }
-            Console.WriteLine("Maximum is: " + maximum);
+            Console.WriteLine("Maximum is: " + Convert.ToChar(maximum));
 
         }
     }

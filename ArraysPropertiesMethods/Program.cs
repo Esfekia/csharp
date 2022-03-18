@@ -15,6 +15,10 @@ namespace ArraysPropertiesMethods
 
             // Length
             Console.WriteLine("Length: " + numbers.Length);
+
+            // IndexOf()
+            var index = Array.IndexOf(numbers, 9);
+            Console.WriteLine("Index of 9: "+ index);
         }
     }
 }

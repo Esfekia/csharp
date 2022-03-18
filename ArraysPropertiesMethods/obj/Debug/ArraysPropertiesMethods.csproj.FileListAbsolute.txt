@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\ArraysPropertiesMethods\bin\Debug\ArraysPropertiesMethods.exe.config
+C:\Users\serta\Desktop\mosh\csharp\ArraysPropertiesMethods\bin\Debug\ArraysPropertiesMethods.exe
+C:\Users\serta\Desktop\mosh\csharp\ArraysPropertiesMethods\bin\Debug\ArraysPropertiesMethods.pdb
+C:\Users\serta\Desktop\mosh\csharp\ArraysPropertiesMethods\obj\Debug\ArraysPropertiesMethods.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\ArraysPropertiesMethods\obj\Debug\ArraysPropertiesMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\ArraysPropertiesMethods\obj\Debug\ArraysPropertiesMethods.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\ArraysPropertiesMethods\obj\Debug\ArraysPropertiesMethods.exe
+C:\Users\serta\Desktop\mosh\csharp\ArraysPropertiesMethods\obj\Debug\ArraysPropertiesMethods.pdb

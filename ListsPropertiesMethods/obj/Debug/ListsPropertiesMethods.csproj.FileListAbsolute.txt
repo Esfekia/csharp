@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\ListsPropertiesMethods\bin\Debug\ListsPropertiesMethods.exe.config
+C:\Users\serta\Desktop\mosh\csharp\ListsPropertiesMethods\bin\Debug\ListsPropertiesMethods.exe
+C:\Users\serta\Desktop\mosh\csharp\ListsPropertiesMethods\bin\Debug\ListsPropertiesMethods.pdb
+C:\Users\serta\Desktop\mosh\csharp\ListsPropertiesMethods\obj\Debug\ListsPropertiesMethods.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\ListsPropertiesMethods\obj\Debug\ListsPropertiesMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\ListsPropertiesMethods\obj\Debug\ListsPropertiesMethods.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\ListsPropertiesMethods\obj\Debug\ListsPropertiesMethods.exe
+C:\Users\serta\Desktop\mosh\csharp\ListsPropertiesMethods\obj\Debug\ListsPropertiesMethods.pdb

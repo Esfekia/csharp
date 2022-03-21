@@ -18,7 +18,7 @@ namespace ArraysPropertiesMethods
 
             // IndexOf()
             var index = Array.IndexOf(numbers, 9);
-            Console.WriteLine("Index of 9: "+ index);
+            Console.WriteLine("Index of 9: " + index);
 
             // Clear() <= int becomes 0, bool becomes false, string becomes null.
             Array.Clear(numbers, 0, 2);
@@ -45,7 +45,6 @@ namespace ArraysPropertiesMethods
             foreach (var n in numbers)
                 Console.WriteLine(n);
 
-
-        }
+        }   
     }
 }

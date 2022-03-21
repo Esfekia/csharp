@@ -16,7 +16,9 @@ namespace ListsPropertiesMethods
 
             foreach (var number in numbers)
                 Console.WriteLine(number);
-
+            Console.WriteLine();
+            Console.WriteLine("Index of 1: " + numbers.IndexOf(1));
+            Console.WriteLine("Last Index of 1: " + numbers.LastIndexOf(1));
         }
     }
 }

@@ -19,6 +19,30 @@ namespace ListsPropertiesMethods
             Console.WriteLine();
             Console.WriteLine("Index of 1: " + numbers.IndexOf(1));
             Console.WriteLine("Last Index of 1: " + numbers.LastIndexOf(1));
+            Console.WriteLine("Count: " + numbers.Count);
+            /*numbers.Remove(1);
+            foreach (var number in numbers)
+                Console.WriteLine(number);
+            */
+
+            //Using foreach like below would result in an exception! Use a normal for loop instead!
+
+            /*foreach (var number in numbers)
+            {
+                if (number == 1)
+                    numbers.Remove(number);
+            }
+            foreach (var number in numbers)
+                Console.WriteLine(number);
+            */
+
+            for (var i=0; i< numbers.Count; i++)
+            {
+                if (numbers[i] == 1)
+                    numbers.Remove(numbers[i]);
+            }
+            foreach (var number in numbers)
+                Console.WriteLine(number);
         }
     }
 }

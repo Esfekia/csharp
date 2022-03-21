@@ -36,13 +36,16 @@ namespace ListsPropertiesMethods
                 Console.WriteLine(number);
             */
 
-            for (var i=0; i< numbers.Count; i++)
+            for (var i=0; i< numbers.Count; i++) 
             {
                 if (numbers[i] == 1)
                     numbers.Remove(numbers[i]);
             }
             foreach (var number in numbers)
                 Console.WriteLine(number);
+
+            numbers.Clear();
+            Console.WriteLine("New Count after Clear: " + numbers.Count);
         }
     }
 }

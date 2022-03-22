@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\ListArrayExercise3\bin\Debug\ListArrayExercise3.exe.config
+C:\Users\serta\Desktop\mosh\csharp\ListArrayExercise3\bin\Debug\ListArrayExercise3.exe
+C:\Users\serta\Desktop\mosh\csharp\ListArrayExercise3\bin\Debug\ListArrayExercise3.pdb
+C:\Users\serta\Desktop\mosh\csharp\ListArrayExercise3\obj\Debug\ListArrayExercise3.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\ListArrayExercise3\obj\Debug\ListArrayExercise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\ListArrayExercise3\obj\Debug\ListArrayExercise3.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\ListArrayExercise3\obj\Debug\ListArrayExercise3.exe
+C:\Users\serta\Desktop\mosh\csharp\ListArrayExercise3\obj\Debug\ListArrayExercise3.pdb

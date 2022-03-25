@@ -47,10 +47,17 @@ namespace datetime
             Console.WriteLine("Total Minutes: " +timeSpan.TotalMinutes);// Total Minutes: 62.05
 
             //Add - Subtract 
-            Console.WriteLine("Add Example: " +timeSpan.Add(TimeSpan.FromMinutes(8)));
-            // Add Example: 01:10:03
-            Console.WriteLine("Subtract Example: " + timeSpan.Subtract(TimeSpan.FromMinutes(5)));
-            // Subtract Example: 00:57:03
+            Console.WriteLine("Add Example: " +timeSpan.Add(TimeSpan.FromMinutes(8)));// Add Example: 01:10:03
+            Console.WriteLine("Subtract Example: " + timeSpan.Subtract(TimeSpan.FromMinutes(5)));// Subtract Example: 00:57:03
+
+            //ToString
+            Console.WriteLine("ToString: " +timeSpan.ToString()); //CW does it anyway!
+            //ToString: 01:02:03
+
+            //Parse
+            Console.WriteLine("Parse: "+ TimeSpan.Parse("01:02:03"));
+            //Parse: 01:02:03
         }
+
     }
 }

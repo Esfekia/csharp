@@ -19,6 +19,11 @@ namespace datetime
             Console.WriteLine("Minute: " + now.Minute);
             Console.WriteLine("Second: " + now.Second);
             //This will give a different output depending on RL datetime!
+
+            Console.WriteLine(now.ToLongDateString());// Friday, March 25, 2022
+            Console.WriteLine(now.ToShortDateString());// 3/25/2022
+            Console.WriteLine(now.ToLongTimeString());// 5:35:21 AM
+            Console.WriteLine(now.ToShortTimeString());// 5:35 AM
         }
     }
 }

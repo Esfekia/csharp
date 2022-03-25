@@ -24,6 +24,11 @@ namespace datetime
             Console.WriteLine(now.ToShortDateString());// 3/25/2022
             Console.WriteLine(now.ToLongTimeString());// 5:35:21 AM
             Console.WriteLine(now.ToShortTimeString());// 5:35 AM
+
+            Console.WriteLine(now.ToString());// 3/25/2022 5:39:03 AM
+            Console.WriteLine(now.ToString("yyyy-MM-dd"));// 2022-03-25
+            Console.WriteLine(now.ToString("yyyy-MM-dd HH:mm"));// 2022-03-25 05:46
+            Console.WriteLine(now.ToString("yyyyMMddHHmmssff"));// 2022032505495720
         }
     }
 }

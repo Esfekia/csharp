@@ -31,16 +31,26 @@ namespace datetime
             Console.WriteLine(now.ToString("yyyyMMddHHmmssff"));// 2022032505495720
 
             //TIME SPAN  - Represents a length of time.
-            var timespan = new TimeSpan(1, 2, 3);// One hour, two minutes, three seconds.
-            var timespan1 = new TimeSpan(1, 0, 0);// One hour.
-            var timespan2 = TimeSpan.FromHours(1);// One hour too, but more readable!
+            var timeSpan = new TimeSpan(1, 2, 3);// One hour, two minutes, three seconds.
+            var timeSpan1 = new TimeSpan(1, 0, 0);// One hour.
+            var timeSpan2 = TimeSpan.FromHours(1);// One hour too, but more readable!
 
             //Using datetime subtraction to get timespan:
 
             var start = DateTime.Now;
             var end = DateTime.Now.AddMinutes(2);
             var duration = end - start;
-            Console.WriteLine("Duration: " + duration);
+            Console.WriteLine("Duration: " + duration);// Duration: 00:02:00
+
+            // Properties of TimeSpan
+            Console.WriteLine("Minutes: " + timeSpan.Minutes);// Minutes: 2
+            Console.WriteLine("Total Minutes: " +timeSpan.TotalMinutes);// Total Minutes: 62.05
+
+            //Add - Subtract 
+            Console.WriteLine("Add Example: " +timeSpan.Add(TimeSpan.FromMinutes(8)));
+            // Add Example: 01:10:03
+            Console.WriteLine("Subtract Example: " + timeSpan.Subtract(TimeSpan.FromMinutes(5)));
+            // Subtract Example: 00:57:03
         }
     }
 }

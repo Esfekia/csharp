@@ -29,6 +29,18 @@ namespace datetime
             Console.WriteLine(now.ToString("yyyy-MM-dd"));// 2022-03-25
             Console.WriteLine(now.ToString("yyyy-MM-dd HH:mm"));// 2022-03-25 05:46
             Console.WriteLine(now.ToString("yyyyMMddHHmmssff"));// 2022032505495720
+
+            //TIME SPAN  - Represents a length of time.
+            var timespan = new TimeSpan(1, 2, 3);// One hour, two minutes, three seconds.
+            var timespan1 = new TimeSpan(1, 0, 0);// One hour.
+            var timespan2 = TimeSpan.FromHours(1);// One hour too, but more readable!
+
+            //Using datetime subtraction to get timespan:
+
+            var start = DateTime.Now;
+            var end = DateTime.Now.AddMinutes(2);
+            var duration = end - start;
+            Console.WriteLine("Duration: " + duration);
         }
     }
 }

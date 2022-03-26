@@ -11,8 +11,15 @@ namespace StringMethods
         static void Main(string[] args)
         {
             var fullName = "Mosh Hamedani ";
-            Console.WriteLine("Trim: '{0}'", fullName.Trim());
-            Console.WriteLine("ToUpper: '{0}'", fullName.ToUpper());
+            Console.WriteLine("Trim: '{0}'", fullName.Trim()); // 'Mosh Hamedani'
+            Console.WriteLine("ToUpper: '{0}'", fullName.ToUpper()); // 'MOSH HAMEDANI'
+
+            //Substrings
+            var index = fullName.IndexOf(' ');
+            var firstName= fullName.Substring(0, index);
+            var lastName= fullName.Substring(index + 1);
+            Console.WriteLine("First Name: " + firstName); // First Name: Mosh
+            Console.WriteLine("Last Name: " + lastName); // Last Name: Mosh
         }
     }
 }

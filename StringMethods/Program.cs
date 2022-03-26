@@ -20,6 +20,15 @@ namespace StringMethods
             var lastName= fullName.Substring(index + 1);
             Console.WriteLine("First Name: " + firstName); // First Name: Mosh
             Console.WriteLine("Last Name: " + lastName); // Last Name: Mosh
+
+            //Split
+            var names = fullName.Split(' ');
+            Console.WriteLine("First Name: " + names[0]); // First Name: Mosh
+            Console.WriteLine("Last Name: " + names[1]); // Last Name: Mosh
+
+            //Replace
+            Console.WriteLine(fullName.Replace("Mosh", "Moshfegh")); //Moshfegh Hamedani
+
         }
     }
 }

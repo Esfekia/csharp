@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\StringMethods\bin\Debug\StringMethods.exe.config
+C:\Users\serta\Desktop\mosh\csharp\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\serta\Desktop\mosh\csharp\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\serta\Desktop\mosh\csharp\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\StringMethods\obj\Debug\StringMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\serta\Desktop\mosh\csharp\StringMethods\obj\Debug\StringMethods.pdb

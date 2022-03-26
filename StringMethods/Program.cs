@@ -29,6 +29,13 @@ namespace StringMethods
             //Replace
             Console.WriteLine(fullName.Replace("Mosh", "Moshfegh")); //Moshfegh Hamedani
 
+            //Working with Empty Strings, Nulls and WhiteSpaces
+            if (String.IsNullOrEmpty(null))
+                Console.WriteLine("Invalid"); // invalid
+            if (String.IsNullOrEmpty(" "))
+                Console.WriteLine("Invalid"); // no msg, since there is whitespace!
+            if (String.IsNullOrWhiteSpace(" "))
+                Console.WriteLine("WhiteSpace Invalid"); // WhiteSpace Invalid
         }
     }
 }

@@ -36,6 +36,15 @@ namespace StringMethods
                 Console.WriteLine("Invalid"); // no msg, since there is whitespace!
             if (String.IsNullOrWhiteSpace(" "))
                 Console.WriteLine("WhiteSpace Invalid"); // WhiteSpace Invalid
+
+            //Convert from string to int and vice versa
+            var str = "25";
+            var age = Convert.ToByte(str);
+            Console.WriteLine(age); //25
+
+            float price = 29.95f;
+            Console.WriteLine(price.ToString("C")); //$29.95
+            Console.WriteLine(price.ToString("C0")); //$30
         }
     }
 }

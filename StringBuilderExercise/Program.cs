@@ -12,7 +12,13 @@ namespace StringBuilderExercise
         {
             var builder = new StringBuilder();
             builder.Append('-', 10);
+            builder.AppendLine();
+            builder.Append("Header");
+            builder.AppendLine();
+            builder.Append('-', 10);
+            builder.Replace('-', '+');
             Console.WriteLine(builder);
+            builder.
         }
     }
 }

@@ -28,16 +28,17 @@ namespace Chapter8Exercise2
                 else if (input != null)
                 {
                     elements = input.Split('-');
+                    var numbers = new List<int>();
+
+                    foreach (var number in elements)
+                        numbers.Add(Convert.ToInt32(number));
+
+                    if (numbers.Count != numbers.Distinct().Count())
+                        Console.WriteLine("Duplicate");
                 }
                 
             }
-            var numbers = new List<int>();
-            
-            foreach (var number in elements)
-                numbers.Add(Convert.ToInt32(number));
-            
-            if (numbers.Count != numbers.Distinct().Count())
-                Console.WriteLine("Duplicate");
+
         }
     }
 }

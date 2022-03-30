@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\Chapter8Exercise2\bin\Debug\Chapter8Exercise2.exe.config
+C:\Users\serta\Desktop\mosh\csharp\Chapter8Exercise2\bin\Debug\Chapter8Exercise2.exe
+C:\Users\serta\Desktop\mosh\csharp\Chapter8Exercise2\bin\Debug\Chapter8Exercise2.pdb
+C:\Users\serta\Desktop\mosh\csharp\Chapter8Exercise2\obj\Debug\Chapter8Exercise2.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\Chapter8Exercise2\obj\Debug\Chapter8Exercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\Chapter8Exercise2\obj\Debug\Chapter8Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\Chapter8Exercise2\obj\Debug\Chapter8Exercise2.exe
+C:\Users\serta\Desktop\mosh\csharp\Chapter8Exercise2\obj\Debug\Chapter8Exercise2.pdb

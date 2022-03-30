@@ -13,7 +13,8 @@ namespace Chapter8Exercise1
     {
         static void Main(string[] args)
         {
-            bool consecCheck = true;
+            bool consecCheckInc = true;
+            bool consecCheckDec = true;
             Console.Write("Please enter a few numbers, seperated by a hyphen. ");
             var input = Console.ReadLine();
             var trimmed = input.Split('-');
@@ -25,17 +26,17 @@ namespace Chapter8Exercise1
             for (int i =0; i<(numbers.Count-1); i++)
                 if (!(numbers[i] == numbers[i+1]-1))
                 {
-                    consecCheck = false;
+                    consecCheckInc = false;
                     break;
                 }
-            for (int i =numbers.Count-1; i>=0; i--)
+            for (int i =numbers.Count-1; i>0; i--)
                 if (!(numbers[i] == numbers[i-1]-1))
                 {
-                    consecCheck = false;
+                    consecCheckDec = false;
                     break;
                 }
                                 
-            if (consecCheck)
+            if (consecCheckInc | consecCheckDec)
                 Console.WriteLine("Consecutive");
             else
                 Console.WriteLine("Not Consecutive");

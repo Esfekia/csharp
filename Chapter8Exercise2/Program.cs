@@ -14,7 +14,7 @@ namespace Chapter8Exercise2
         static void Main(string[] args)
         {
             string[] elements= null;
-            //var isDuplicate = false;
+            
             while (true)
             {
                 Console.WriteLine("Please enter a few numbers, separated by a hyphen. ");

@@ -16,7 +16,12 @@ namespace Chapter8Exercise5
             var input = Console.ReadLine();
             var counter = 0;
             foreach (var letter in input)
-                //Console.WriteLine(letter);
+            //Console.WriteLine(letter);
+            {
+                if (letter == 'a' | letter == 'e' | letter == 'o' | letter == 'u' | letter =='i')
+                    counter++;
+            }
+            Console.WriteLine(counter);
         }
     }
 }

@@ -20,7 +20,12 @@ namespace Chapter8Exercise4
             var pascalNames = new StringBuilder();
             foreach (var word in names)
             {
-               
+                if (word.Length == 0)
+                    Console.WriteLine("Empty string!");
+                else if (word.Length == 1)
+                    pascalNames.Append(char.ToUpper(word[0]));
+                else
+                    pascalNames.Append(char.ToUpper(word[0]) + word.Substring(1));
             }
 
         }

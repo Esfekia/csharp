@@ -13,7 +13,7 @@ namespace Chapter8Exercise5
         static void Main(string[] args)
         {
             Console.Write("Please enter an English word: ");
-            var input = Console.ReadLine();
+            var input = Console.ReadLine().ToLower();
             var counter = 0;
             foreach (var letter in input)
             //Console.WriteLine(letter);

@@ -24,10 +24,10 @@ namespace Chapter8Exercise4
                     Console.WriteLine("Empty string!");
                 else if (word.Length == 1)
                     pascalNames.Append(char.ToUpper(word[0]));
-                else
-                    pascalNames.Append(char.ToUpper(word[0]) + word.Substring(1));
+                else                    
+                    pascalNames.Append(char.ToUpper(word[0]) + word.ToLower().Substring(1));
             }
-
+            Console.WriteLine(pascalNames);
         }
     }
 }

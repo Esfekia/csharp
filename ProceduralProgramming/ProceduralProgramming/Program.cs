@@ -25,8 +25,11 @@ namespace ProceduralProgramming
             for (var i = name.Length; i > 0; i--)
                 array[name.Length - i] = name[i - 1];
 
-            var reversed = new string(array);
-            return reversed;
+            /* No need for reversed var because ReserveName will return it
+             * var reversed = new string(array);
+             * return reversed;
+            */
+            return new string(array);
         }
     }
 }

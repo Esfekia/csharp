@@ -10,7 +10,7 @@ namespace ProceduralGenerationExample2
     {
         //Seperate the part about working with console
         //with the part that works with the logic of the application
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var numbers = new List<int>();
 
@@ -25,6 +25,14 @@ namespace ProceduralGenerationExample2
                 numbers.Add(Convert.ToInt32(input));
             }
 
+            var uniques = GetUniqueNumbers(numbers);
+
+            Console.WriteLine("Unique numbers:");
+            foreach (var number in uniques)
+                Console.WriteLine(number);
+        }
+        public static List<int> GetUniqueNumbers(List<int> numbers)
+        {
             var uniques = new List<int>();
             foreach (var number in numbers)
             {
@@ -32,9 +40,9 @@ namespace ProceduralGenerationExample2
                     uniques.Add(number);
             }
 
-            Console.WriteLine("Unique numbers:");
-            foreach (var number in uniques)
-                Console.WriteLine(number);
+            return uniques;
+
         }
+
     }
 }

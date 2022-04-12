@@ -11,7 +11,7 @@ namespace FileAndFileInfo
     {
         static void Main(string[] args)
         {
-            File.Copy("c:\\temp\\myfile.jpg", "c:\\temp\\yourfile.jpg", true);
+            File.Copy(@"c:\temp\myfile.jpg", @"c:\temp\yourfile.jpg", true);
         }
     }
 }

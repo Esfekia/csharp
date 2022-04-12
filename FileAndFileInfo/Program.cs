@@ -11,7 +11,8 @@ namespace FileAndFileInfo
     {
         static void Main(string[] args)
         {
-            var path = @"c:\temp\yourfile.jpg";
+            /* FILE CLASS
+             * var path = @"c:\temp\yourfile.jpg";
             var text = @"c:\temp\text.txt";
             File.Copy(@"c:\temp\myfile.jpg", @"c:\temp\yourfile.jpg", true);
             File.Delete(path);
@@ -25,6 +26,15 @@ namespace FileAndFileInfo
             }
             Console.WriteLine(File.ReadAllText(text));
             //File.ReadAllBytes would open a binary file and read all contents of the file into a byte array
+            */
+            var path = @"c:\temp\myfile.jpg";
+            var fileInfo = new FileInfo(path);
+            fileInfo.CopyTo(@"c:\temp\yourfile.jpg", true);
+            fileInfo.Delete();
+            if (fileInfo.Exists)
+                Console.WriteLine("It exists!");
+            else
+                Console.WriteLine("It does not exist anymore.");
         }
     }
 }

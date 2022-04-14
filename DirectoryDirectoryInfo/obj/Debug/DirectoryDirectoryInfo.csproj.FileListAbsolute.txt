@@ -1,0 +1,8 @@
+C:\Users\serta\Desktop\mosh\csharp\DirectoryDirectoryInfo\bin\Debug\DirectoryDirectoryInfo.exe.config
+C:\Users\serta\Desktop\mosh\csharp\DirectoryDirectoryInfo\bin\Debug\DirectoryDirectoryInfo.exe
+C:\Users\serta\Desktop\mosh\csharp\DirectoryDirectoryInfo\bin\Debug\DirectoryDirectoryInfo.pdb
+C:\Users\serta\Desktop\mosh\csharp\DirectoryDirectoryInfo\obj\Debug\DirectoryDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\serta\Desktop\mosh\csharp\DirectoryDirectoryInfo\obj\Debug\DirectoryDirectoryInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\serta\Desktop\mosh\csharp\DirectoryDirectoryInfo\obj\Debug\DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\serta\Desktop\mosh\csharp\DirectoryDirectoryInfo\obj\Debug\DirectoryDirectoryInfo.exe
+C:\Users\serta\Desktop\mosh\csharp\DirectoryDirectoryInfo\obj\Debug\DirectoryDirectoryInfo.pdb

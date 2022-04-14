@@ -11,11 +11,16 @@ namespace DirectoryDirectoryInfo
     {
         static void Main(string[] args)
         {
-            Directory.CreateDirectory(@"c:\temp\folder1");
+            /*Directory.CreateDirectory(@"c:\temp\folder1");
 
-            var files = Directory.GetFiles(@"c:\temp\two", "*.*",SearchOption.AllDirectories);
-            foreach(var file in files)
+            //var files = Directory.GetFiles(@"c:\temp\two", "*.*",SearchOption.AllDirectories);
+            var files = Directory.GetFiles(@"c:\temp\two", "*.jpg", SearchOption.AllDirectories);
+            foreach (var file in files)
                 Console.WriteLine(file);
+            */
+            var directories = Directory.GetDirectories(@"c:\temp\folder1", "*.*", SearchOption.AllDirectories);
+            foreach (var directory in directories)
+                Console.WriteLine(directory);
         }
     }
 }

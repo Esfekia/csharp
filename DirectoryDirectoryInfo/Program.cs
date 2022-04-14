@@ -17,9 +17,20 @@ namespace DirectoryDirectoryInfo
             var files = Directory.GetFiles(@"c:\temp\two", "*.jpg", SearchOption.AllDirectories);
             foreach (var file in files)
                 Console.WriteLine(file);
-            */
+            
             var directories = Directory.GetDirectories(@"c:\temp\folder1", "*.*", SearchOption.AllDirectories);
             foreach (var directory in directories)
+                Console.WriteLine(directory);
+
+            if (Directory.Exists(@"c:\temp\folder1"))
+                Console.WriteLine("It exists!");
+            */
+
+            var directoryInfo = new DirectoryInfo(@"c:\temp\folder1\deneme");
+            
+            directoryInfo.Create();
+            var newdirectories = directoryInfo.GetDirectories();
+            foreach (var directory in newdirectories)
                 Console.WriteLine(directory);
         }
     }
